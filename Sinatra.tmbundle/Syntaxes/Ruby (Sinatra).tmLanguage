@@ -2,10 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>fileTypes</key>
-	<array>
-		<string>steps.rb</string>
-	</array>
 	<key>keyEquivalent</key>
 	<string>^~R</string>
 	<key>name</key>
@@ -14,7 +10,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(get|put|post|delete|head|error|configure|before|helpers|use_in_file_template!)\b</string>
+			<string>\b(get|put|post|delete|head|error|configure|before|helpers|use_in_file_templates!|use|haml|erb|sass|set|enable|disable)\b</string>
 			<key>name</key>
 			<string>keyword</string>
 		</dict>
