@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>use_in_file_template!
+	<string>use_in_file_templates!
 $0</string>
 	<key>name</key>
 	<string>use_in_file_template!</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>use</string>
+	<string>ift</string>
 	<key>uuid</key>
 	<string>EB6C52D4-9E39-4EB5-88B5-29658CA7FFFE</string>
 </dict>
