@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>error ${1:ErrorName} do
+	stop ${2:number}, ${3:'&lt;h1&gt;Error!&lt;/h1&gt;'}
+end</string>
+	<key>name</key>
+	<string>error...end</string>
+	<key>scope</key>
+	<string>source.ruby</string>
+	<key>tabTrigger</key>
+	<string>err</string>
+	<key>uuid</key>
+	<string>139FE9EC-9475-4BA7-B1DB-890CE5569269</string>
+</dict>
+</plist>
