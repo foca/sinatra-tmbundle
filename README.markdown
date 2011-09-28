@@ -1,3 +1,7 @@
+# This is unmaintained
+
+I'm not using TextMate, so I'm not maintaining this anymore. Please use https://github.com/blinklys/sinatra-tmbundle which is newer :)
+
 Sinatra.tmbundle
 ================
 
